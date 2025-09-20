@@ -5,6 +5,6 @@
     "build": "deno run --allow-net --allow-read --allow-env main.tsx"
   },
   "imports": {
-    "blog": "https://deno.land/x/blog@0.7.0/blog.tsx"
+    "blog": "https://deno.land/x/blog/blog.tsx"
   }
 }
