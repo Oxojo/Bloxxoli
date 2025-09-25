@@ -1,0 +1,15 @@
+lang: jp
+
+home:
+  welcome: Bloxxoli
+
+menu_links: []
+extra_head: []
+
+metas:
+  site: Bloxxoli
+  description: Oxojo's blog.
+  title: "=title"
+  image: "=image"
+  twitter: "@Oxojo_"
+  lang: jp
